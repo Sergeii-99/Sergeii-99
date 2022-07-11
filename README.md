@@ -7,7 +7,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
-
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 
 
 
