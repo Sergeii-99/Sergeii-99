@@ -21,5 +21,4 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100028927579991)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergeii-99show_icons=true)](https://github.com/Sergeii-99/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergeii-99&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
