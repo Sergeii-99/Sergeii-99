@@ -20,5 +20,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B8%D0%B9-%D0%B3%D0%B0%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE-444595232)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100028927579991)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergeii-99show_icons=true)](https://github.com/Sergeii-99/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergeii-99&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
